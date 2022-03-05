@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "discord.js": "13",
+    "dotenv": "^16.0.0",
+    "node-calls-python": "^1.5.4"
+  }
+}
